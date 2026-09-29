@@ -39,7 +39,7 @@ https://static.thenounproject.com/png/3468363-512.png
 
 
 ### Datasets for the File Search Tool
-* [calorie_database.txt](https://nutrition-datasets.s3.amazonaws.com/calorie_database.txt)
+* [calorie_database.txt](https://z-datasets.s3.amazonaws.com/calorie_database.txt)
 * [questions_output.txt](https://nutrition-datasets.s3.amazonaws.com/questions_output.txt)
 
 ### RAG & File Search Instructions

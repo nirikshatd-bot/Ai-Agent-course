@@ -29,6 +29,7 @@ async def on_message(message: cl.Message):
         ):
             await msg.stream_token(token=event.data.delta)
 
+
         elif (
             event.type == "raw_response_event"
             and hasattr(event.data, "item")
